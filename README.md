@@ -172,14 +172,7 @@ Overall, whenever working hours are >40 then people training hours are reducing 
 - Optimized training hours:  below 3 yrs > 4-6 yrs > 7-9 yrs.
 - If we optimize training hours for senior team & increase training for mid senior and fresher team will improve more productivity on employees. 
 
-
-
-
-
-
-
-
-
-
 ### Acknowledgement:
+
+-Thanks to dataanalystduo team, for providing the data and Special thanks to kalpesh for your guidence through out the project.
 
